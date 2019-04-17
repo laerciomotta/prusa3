@@ -18,3 +18,7 @@
 ## precisa confirmar tamanho da correia
  * (1) x-carriage
  * (1) y-belt-holder
+
+## based: 
+* https://reprap.org/wiki/Prusa_i3_Build_Manual
+* https://github.com/josefprusa/Prusa3
