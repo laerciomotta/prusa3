@@ -5,7 +5,7 @@
  * (4) y-corners
  * (2) magnetic-holder
 
-## uma pecaa de cada:
+## uma peca de cada:
  * (1) z-axis-top
  * (1) z-axis-bottom
  * (1) y-motor
@@ -15,6 +15,6 @@
  * (1) fan-mount
  * (1) greg-adapter
 
-##precisa confirmar tamanho da correia
+## precisa confirmar tamanho da correia
  * (1) x-carriage
  * (1) y-belt-holder
